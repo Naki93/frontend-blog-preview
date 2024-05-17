@@ -5,7 +5,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#Frontendmentor Blog Preview Card)
+  - [The challenge](#)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -22,6 +22,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
+- This project is a solution to the Blog Preview Card challenge from Frontend Mentor. It demonstrates the use of HTML, CSS, and Flexbox to create a responsive and visually appealing blog card component.
+
 Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
@@ -29,14 +31,6 @@ Users should be able to:
 ### Screenshot
 
 ![](./blog-preview.png)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -55,28 +49,25 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+I learned how to use css custom properties to represent values to be reused throughout the document
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+:root{
+--primaryColor: hsl(47, 88%, 63%);
+--whiteColor:hsl(0, 0%, 100%);
+--greyColor: hsl(0, 0%, 50%);
+--blackColor: hsl(0, 0%, 7%);
+}
+
+body{
+    background-color: var(--primaryColor);
+}
+
+.card{
+  box-shadow: 
+        -1px -1px 5px -1px var(--blackColor), 
+         10px 10px 0 5px var(--blackColor); 
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
@@ -92,11 +83,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Website - [Add your name here](Anna)
 
 ## Acknowledgments
 
