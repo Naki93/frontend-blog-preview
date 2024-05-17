@@ -12,7 +12,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Built with](#HTML CSS)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -70,23 +69,26 @@ body{
 ```
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+As part of my commitment to continuous improvement, I am focusing on enhancing my understanding and application of various CSS units and properties, which are fundamental to responsive and accessible web design. Specifically, I am concentrating on:
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+ CSS Units:
 
-### Useful resources
+- rem: Root em unit, which is relative to the root element (usually the <html> element).
+- em: Relative to the font-size of the element's parent.
+- px: Pixels, an absolute unit.
+- %: Percentages, relative to the parent element's dimensions.
+Mastering these units will allow me to create more flexible and scalable layouts.
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+max-width in Images:
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+Understanding and utilizing max-width to ensure images are responsive and adapt well to different screen sizes without losing their aspect ratio.
+Through continuous learning and practical application of these concepts, I aim to improve the responsiveness, accessibility, and overall user experience of the web applications I develop. This ongoing education will ensure my skills remain current and effective in the ever-evolving landscape of web development.
 
 ## Author
 
-- Website - [Add your name here](Anna)
+- Website - [Anna]
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+Shout out to the gentleman that commented on my previous qr code solution and told me about including a CSS reset at the top of my document.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
