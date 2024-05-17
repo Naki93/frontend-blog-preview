@@ -34,7 +34,7 @@ body{
     border-radius: 20px;
     box-shadow: 
         -1px -1px 5px -1px var(--blackColor), 
-         10px 10px 0 5px var(--blackColor); 
+         8px 8px 0 5px var(--blackColor); 
 }
 
 img{
