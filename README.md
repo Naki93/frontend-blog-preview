@@ -68,7 +68,7 @@ body{
 
 📝 As part of my commitment to continuous improvement, I am focusing on enhancing my understanding and application of various CSS units and properties, which are fundamental to responsive and accessible web design. Specifically, I am concentrating on:
 
- CSS Units:
+🔹 CSS Units:
 
 - rem: Root em unit, which is relative to the root element (usually the <html> element).
 - em: Relative to the font-size of the element's parent.
