@@ -83,6 +83,6 @@ Through continuous learning and practical application of these concepts, I aim t
 
 ## Author
 
-- Frontend Mentor - [Anna M](https://www.frontendmentor.io/profile/Naki93)
+- Website - [Anna M]
 
 
