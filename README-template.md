@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -83,9 +83,6 @@ Through continuous learning and practical application of these concepts, I aim t
 
 ## Author
 
-- Website - [Anna]
+- Website - [Anna M]
 
-## Acknowledgments
-
-Shout out to the gentleman that commented on my previous qr code solution and told me about including a CSS reset at the top of my document.
 
