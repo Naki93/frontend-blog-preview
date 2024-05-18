@@ -81,6 +81,10 @@ Mastering these units will allow me to create more flexible and scalable layouts
 Understanding and utilizing max-width to ensure images are responsive and adapt well to different screen sizes without losing their aspect ratio.
 Through continuous learning and practical application of these concepts, I aim to improve the responsiveness, accessibility, and overall user experience of the web applications I develop. This ongoing education will ensure my skills remain current and effective in the ever-evolving landscape of web development.
 
+📏 Javascript Touch events:
+
+Familiarize myself with javaScript touch events as `:hover` pseudo-class behavior is not consistent across all mobile devices because touchscreens do not typically have a hover state.
+
 ## Author
 
 - Website - [Anna M]
