@@ -86,6 +86,7 @@ Through continuous learning and practical application of these concepts, I aim t
 Familiarize myself with javaScript touch events as `:hover` pseudo-class behavior is not consistent across all mobile devices because touchscreens do not typically have a hover state.
 
 📏 Box Shadow:
+
 Achieving Box shadow in this project was a bit difficult.
 
 ## Author
