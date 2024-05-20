@@ -87,7 +87,7 @@ Familiarize myself with javaScript touch events as `:hover` pseudo-class behavio
 
 📏 Box Shadow:
 
-Achieving Box shadow in this project was a bit difficult.
+Achieving Box shadow in this project was a bit difficult. I want to learn how to produce animations/transitions on the box shadow property
 
 ## Author
 
