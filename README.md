@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Naki93/frontend-blog-preview](https://your-solution-url.com)
-- Live Site URL: [https://frontend-blog-preview.vercel.app/](https://your-live-site-url.com)🚀
+- Solution URL: 
 
 ## My process
 
