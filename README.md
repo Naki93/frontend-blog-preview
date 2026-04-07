@@ -31,7 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL:
+  https://frontend-blog-preview.vercel.app/
 
 ## My process
 
